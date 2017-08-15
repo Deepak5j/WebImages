@@ -1,1 +1,1 @@
-#SoloLearn Pictures#
+#SoloLearn Pictures
