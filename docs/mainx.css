@@ -1,0 +1,98 @@
+html,body {
+	margin: 0;
+	height: 100%;
+	background-image: url("https://raw.githubusercontent.com/Deepak5j/WebImages/master/UltraSmallBgpic/b12.png");
+
+    background-attachment: fixed;
+}
+header {
+	background-color: #00d;
+	width: 100%;
+	height: 100px;
+	margin:0px auto;
+	position:fixed;
+	border-color: #000;
+	border-top: 2px solid #009;
+	border-bottom: 2px solid #009;
+	text-align: center;
+	//font-color: #040;
+	font-size: 70px;
+	font-family: 'Orbitron', sans-serif;
+	text-shadow: 2px 2px 1px #f00;
+}
+di1v {
+	width: 80%;
+	height: 100%
+	background-color: #0dd;
+	font-color: #040;
+	font-size: 70px;
+	font-family: 'Poiret One', sans-serif;
+}
+nav {
+	background-color: #000;
+	font-family: 'Noticia Text', serif;
+}
+section {
+	background-image: url("https://raw.githubusercontent.com/Deepak5j/WebImages/master/UltraSmallBgpic/b32.png");
+	//background-color: #CC9966;
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 64px ;
+	//border: 2px solid #996633;
+	border: 2px solid #00009f;
+	height: 100% auto;
+	text-align: center;
+	color: #662211;
+	font-size: 30px;
+	//font-family: 'Poiret One', cursive;
+	//font-weight: bold;
+	//font-weight: bolder;
+}
+footer {
+	background-color: #00d;
+	height: 60px;
+	height: auto; 
+	margin: 0 auto;  
+	padding: 0; 
+	position: relative;
+	border-color: #000;
+	border-top: 2px solid #009;
+	border-top: 2px solid #009;
+	text-align: center;
+	font-color: #040;
+	font-size: 50px;
+	font-family: 'Noticia Text', serif;
+	min-height: 60px;
+	text-align: center;	 
+	text-shadow: 2px 2px 1px #f00; 
+}
+#x1,#x2,#x3 {
+    //background-color: #42fc89;
+    background-color: rgba(255,255,255,0.3);
+    height: 2480px;
+    width: 900px;
+    display: inline-block;
+    margin: 8px;
+	//text-align: center !important;
+    //display: none !important;
+
+}
+
+p {
+	text-align: left;
+	font-family: "Times New Roman";
+	font-size: 20px;
+}
+dl {
+	font-size: 20px;
+	text-align: left;
+	font-family: "Times New Roman";
+}
+#h1{
+	font-weight: bold;
+}
+a{
+    text-decoration: none !important;
+    color: inherit;
+    cursor: auto;
+}
